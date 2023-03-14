@@ -1,6 +1,6 @@
 # Hello, I am Klaudia 👋
-### :link: Portfolio :computer:
-
+### <a href="https://klaudiazygmunt.vercel.app/">:link: Portfolio :computer:
+</a>
 <br>
 
 ## 👩‍💻 About Me:
@@ -21,8 +21,11 @@ My skills focus on React and Next.js technologies which allow me to create innov
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+For some time now I've also been learning the <b>JEST framework</b> for app testing.
+
 ## 📬 How to reach me:
-📧 
-<a href="[your-linkedin-URL](https://www.linkedin.com/in/klaudia-zygmunt/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+If you would like to learn more about me or my work, please feel free to contact me. I would be happy to answer any questions.
+
+My e-mail address: [contact@klaudiazygmunt.com](mailto:contact@klaudiazygmunt.com)
+
+I will reply as soon as possible. :slightly_smiling_face:
