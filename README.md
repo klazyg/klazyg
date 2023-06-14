@@ -1,5 +1,4 @@
 # Hello, I am Klaudia 👋
-### <a href="https://klaudiazygmunt.vercel.app/">:link: Portfolio :computer:
 </a>
 <br>
 
@@ -22,10 +21,3 @@ My skills focus on React and Next.js technologies which allow me to create innov
 </div>
 
 For some time now I've also been learning the <b>JEST framework</b> for app testing.
-
-## 📬 How to reach me:
-If you would like to learn more about me or my work, please feel free to contact me. I would be happy to answer any questions.
-
-My e-mail address: [contact@klaudiazygmunt.com](mailto:contact@klaudiazygmunt.com)
-
-I will reply as soon as possible. :slightly_smiling_face:
